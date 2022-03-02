@@ -6,6 +6,8 @@ http://ftp.fred.net/jacobs/DE/expshift.pdf
 
 https://www.math.utah.edu/~yplee/teaching/2270f14/Jordan_Form.pdf
 
+https://brilliant.org/wiki/jordan-canonical-form/
+
 
 # Пара вкусных книжек
 
