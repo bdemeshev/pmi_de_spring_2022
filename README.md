@@ -9,6 +9,10 @@ https://www.math.utah.edu/~yplee/teaching/2270f14/Jordan_Form.pdf
 https://brilliant.org/wiki/jordan-canonical-form/
 
 
+* Вронскиан
+
+http://scipp.ucsc.edu/~haber/ph116C/Wronskian_12.pdf
+
 * Пара вкусных книжек
 
 https://www.math.hkust.edu.hk/~machas/differential-equations.pdf
